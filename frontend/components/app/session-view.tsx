@@ -107,7 +107,7 @@ export const SessionView = ({
       {...props}
     >
       {/* Brand Header */}
-      <BrandHeader brandName="VoiceShop" />
+      <BrandHeader brandName="EchoMart" />
       
       <style jsx global>{`
         /* Hide LiveKit branding */

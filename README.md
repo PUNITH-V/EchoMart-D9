@@ -1,6 +1,6 @@
-# Day 9: VoiceShop - E-Commerce Voice Shopping Assistant
+# Day 9: EchoMart - E-Commerce Voice Shopping Assistant
 
-Welcome to **Day 9** of the AI Voice Agents Challenge! Today we're building **VoiceShop**, a complete voice-powered e-commerce shopping assistant that lets users browse products, add items to cart, and place orders entirely through voice commands.
+Welcome to **Day 9** of the AI Voice Agents Challenge! Today we're building **EchoMart**, a complete voice-powered e-commerce shopping assistant that lets users browse products, add items to cart, and place orders entirely through voice commands.
 
 ## 🎯 Challenge Overview
 
@@ -260,7 +260,7 @@ Agent: "Great! I have your order for Black Logo Hoodie being delivered to
 
 ### Chat Interface
 - Dark gradient background
-- VoiceShop branding
+- EchoMart branding
 - Real-time cart status widget
 - Last order button
 - Order receipt modal with download option
@@ -336,7 +336,7 @@ Edit `frontend/components/app/welcome-view.tsx`:
 
 ## 🚀 Next Steps
 
-Enhance your VoiceShop agent:
+Enhance your EchoMart agent:
 - Add payment processing integration
 - Implement product recommendations
 - Add order tracking

@@ -28,9 +28,9 @@ load_dotenv(".env")
 class Assistant(Agent):
     def __init__(self) -> None:
         super().__init__(
-            instructions="""You are a friendly voice shopping assistant for VoiceShop, an e-commerce store. The user is interacting with you via voice.
+            instructions="""You are a friendly voice shopping assistant for EchoMart, an e-commerce store. The user is interacting with you via voice.
             
-            GREETING: When you first greet the user, say: "Hello! Welcome to VoiceShop. I can help you find mugs, hoodies, t-shirts, caps, and bags. What would you like to see today?"
+            GREETING: When you first greet the user, say: "Hello! Welcome to EchoMart. I can help you find mugs, hoodies, t-shirts, caps, and bags. What would you like to see today?"
             
             BROWSING PRODUCTS:
             - Always use the browse_catalog tool to show available products - never invent products or prices

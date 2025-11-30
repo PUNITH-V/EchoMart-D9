@@ -4,7 +4,7 @@ interface BrandHeaderProps {
   brandName?: string;
 }
 
-export function BrandHeader({ brandName = 'VoiceShop' }: BrandHeaderProps) {
+export function BrandHeader({ brandName = 'EchoMart' }: BrandHeaderProps) {
   return (
     <div className="fixed top-6 left-6 z-50">
       <h1 className="text-white text-lg font-semibold tracking-wide">{brandName}</h1>

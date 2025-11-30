@@ -6,4 +6,4 @@ livekit-server --dev &
 (cd frontend && pnpm dev) &
 
 # Wait for all background jobs
-wait
+wait.
